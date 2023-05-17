@@ -7,4 +7,5 @@ Langkah pre-processing data yang digunakan adalah
 1. train-test split sebelum melakukan Exploratory Data Analysis,
 2. Mengubah feature categorical menjadi numerical dengan metode rank encoding dan one hot encoding 
 3. Memilih feature berdasarkan heatmap correlation. 
-4. Setelah itu, model yang dipilih adalah random forest karna memiliki precision paling tinggi diantara beberapa model yang sudah dicoba pada project ini. Nilai precision score adalah 78,3%, yang berarti model mampu menangkap 78,3% nasabah yang sebenarnya subscribe deposito diantara semua nasabah yang diprediksi subscribe deposito, dengan kata lain conversion rate meningkat menjadi 78,3%. 
+4. Setelah itu, model yang dipilih adalah random forest karna memiliki precision paling tinggi diantara beberapa model yang sudah dicoba pada project ini. 
+5. Nilai precision score adalah 78,3%, yang berarti model mampu menangkap 78,3% nasabah yang sebenarnya subscribe deposito diantara semua nasabah yang diprediksi subscribe deposito, dengan kata lain conversion rate meningkat menjadi 78,3%. 
