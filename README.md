@@ -1,4 +1,5 @@
 # Bank_Marketing_Campaign_Using_Machine_Learning
+![633e2cf1994d4d44f937f3ba_marketing campaign 2](https://github.com/Makrufkasr/Bank_Marketing_Campaign_Using_Machine_Learning/assets/109516688/7a3de546-6c5c-40f0-8b51-63b4cc0ec04e)
 
 Project ini berangkat dari sebuah masalah bisnis yaitu conversion rate nasabah yang subscribe deposito hanya 47,4% sehingga tujuan dari project ini adalah **memprediksi conversion rate nasabah yang subscribe deposito dan memberikan rekomendasi target nasabah serta metode pelaksanaan campaign yang efektif agar dapat meningkatkan conversion rate**
 
